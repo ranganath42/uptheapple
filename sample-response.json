@@ -1,0 +1,583 @@
+{
+   "drpost":false,
+   "drMessage":null,
+   "services":[
+      {
+         "redirectUrl":"https://developer.apple.com/account/",
+         "serviceName":"Account",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/notifications/",
+         "serviceName":"APNS",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/notifications/",
+         "serviceName":"APNS Sandbox",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/documentation/devicecheck",
+         "serviceName":"App Attest",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/app-store/app-updates/",
+         "serviceName":"App Store Automatic App Updates",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://itunesconnect.apple.com/",
+         "serviceName":"App Store Connect",
+         "events":[
+            {
+               "usersAffected":"Some users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619229900000,
+               "messageId":"2000000555",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:05 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            },
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619269200000,
+               "epochEndDate":1619298000000,
+               "messageId":"2000000553",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/24/2021 06:00 PDT",
+               "endDate":"04/24/2021 14:00 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "App Store Connect Analytics",
+                  "App Store Connect App Processing",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Apple Developer systems will be offline for planned maintenance. "
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://appstoreconnect.apple.com/analytics",
+         "serviceName":"App Store Connect Analytics",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619269200000,
+               "epochEndDate":1619298000000,
+               "messageId":"2000000553",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/24/2021 06:00 PDT",
+               "endDate":"04/24/2021 14:00 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "App Store Connect Analytics",
+                  "App Store Connect App Processing",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/app-store-connect/api/",
+         "serviceName":"App Store Connect API",
+         "events":[
+            {
+               "usersAffected":"Some users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619229900000,
+               "messageId":"2000000555",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:05 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            },
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619269200000,
+               "epochEndDate":1619298000000,
+               "messageId":"2000000553",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/24/2021 06:00 PDT",
+               "endDate":"04/24/2021 14:00 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "App Store Connect Analytics",
+                  "App Store Connect App Processing",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":null,
+         "serviceName":"App Store Connect App Processing",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619269200000,
+               "epochEndDate":1619298000000,
+               "messageId":"2000000553",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/24/2021 06:00 PDT",
+               "endDate":"04/24/2021 14:00 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "App Store Connect Analytics",
+                  "App Store Connect App Processing",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/documentation/appstorereceipts/verifyreceipt",
+         "serviceName":"App Store Receipt Verification",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":" https://developer.apple.com/documentation/storekit/in-app_purchase/testing_in-app_purchases_with_sandbox",
+         "serviceName":"App Store Sandbox",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":" https://developer.apple.com/documentation/appstoreservernotifications",
+         "serviceName":"App Store Server Notifications",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://forums.developer.apple.com",
+         "serviceName":"Apple Developer Forums",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/maps/",
+         "serviceName":"Apple Maps API",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/musickit/",
+         "serviceName":"Apple Music API",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":null,
+         "serviceName":"Apple News API",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/apple-pay/",
+         "serviceName":"Apple Pay - Developer",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/account/",
+         "serviceName":"Certificates, Identifiers & Profiles",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://icloud.developer.apple.com/dashboard",
+         "serviceName":"CloudKit Dashboard",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/account/?view=support",
+         "serviceName":"Code-level Support",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/contact/",
+         "serviceName":"Contact Us",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Service will be unavailable at this time."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/reference",
+         "serviceName":"Developer Documentation",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":null,
+         "serviceName":"Developer ID Notary Service",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/documentation/devicecheck",
+         "serviceName":"Device Check",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://support.apple.com/en-us/HT204460",
+         "serviceName":"Enterprise App Verification",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://bugreport.apple.com/",
+         "serviceName":"Feedback Assistant",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":null,
+         "serviceName":"In-App Purchases",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://maps.developer.apple.com",
+         "serviceName":"MapKit JS Dashboard",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Service will be unavailable at this time."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/news-publisher/",
+         "serviceName":"News Publisher",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/enroll/",
+         "serviceName":"Program Enrollment and Renewals",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/download/",
+         "serviceName":"Software Downloads",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/testflight/",
+         "serviceName":"TestFlight",
+         "events":[
+            {
+               "usersAffected":"Some users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619229900000,
+               "messageId":"2000000555",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:05 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            },
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619269200000,
+               "epochEndDate":1619298000000,
+               "messageId":"2000000553",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/24/2021 06:00 PDT",
+               "endDate":"04/24/2021 14:00 PDT",
+               "affectedServices":[
+                  "App Store Connect",
+                  "App Store Connect API",
+                  "App Store Connect Analytics",
+                  "App Store Connect App Processing",
+                  "TestFlight"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to scheduled maintenance, some services will be unavailable."
+            }
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/videos/",
+         "serviceName":"Videos",
+         "events":[
+            
+         ]
+      },
+      {
+         "redirectUrl":"https://developer.apple.com/xcode/",
+         "serviceName":"Xcode Automatic Configuration",
+         "events":[
+            {
+               "usersAffected":"All users will be affected",
+               "epochStartDate":1619226000000,
+               "epochEndDate":1619231400000,
+               "messageId":"2000000557",
+               "statusType":"Maintenance",
+               "datePosted":"04/22/2021 22:00 PDT",
+               "startDate":"04/23/2021 18:00 PDT",
+               "endDate":"04/23/2021 19:30 PDT",
+               "affectedServices":[
+                  "Account",
+                  "Certificates, Identifiers & Profiles",
+                  "CloudKit Dashboard",
+                  "Code-level Support",
+                  "Contact Us",
+                  "MapKit JS Dashboard",
+                  "Program Enrollment and Renewals",
+                  "Software Downloads",
+                  "Xcode Automatic Configuration"
+               ],
+               "eventStatus":"upcoming",
+               "message":"Due to maintenance, some services will be unavailable."
+            }
+         ]
+      }
+   ]
+}
